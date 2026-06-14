@@ -1,0 +1,6 @@
+¿Qué hace esta ruta?
+Esta ruta permite que una persona envíe un mensaje al servidor. Cuando el servidor recibe la información, responde confirmando que el reporte fue recibido correctamente y muestra el mensaje que se envió.
+¿Para qué podría servir en una aplicación comunitaria?
+Podría servir para que las personas de una comunidad reporten situaciones, compartan inquietudes o envíen información importante. Por ejemplo, alguien podría reportar un problema en su barrio o hacer una sugerencia para mejorar una actividad comunitaria. De esta manera, la información se organiza mejor y puede recibir seguimiento de forma más sencilla.
+
+
