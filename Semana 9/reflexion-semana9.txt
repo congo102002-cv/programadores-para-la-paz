@@ -1,0 +1,5 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+Pienso que es importante que las plataformas tecnológicas utilizadas por las comunidades funcionen de manera estable y segura porque muchas personas dependen de ellas para comunicarse, compartir información y participar en diferentes procesos. Si la plataforma presenta fallas constantes o problemas de seguridad, puede afectar la confianza de los usuarios y dificultar la participación.
+Además, un servidor estable garantiza que la información esté disponible cuando se necesite y evita la pérdida de datos importantes. Por su parte, la seguridad ayuda a proteger la privacidad de las personas, prevenir accesos no autorizados y reducir el riesgo de que la información sea alterada o utilizada de forma indebida.
+Cuando una plataforma es segura y confiable, las comunidades pueden participar con mayor tranquilidad y fortalecer sus procesos de organización, colaboración y toma de decisiones.
+
