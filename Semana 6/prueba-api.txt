@@ -1,2 +1,8 @@
+En el cuerpo de la solicitud se enviaron los siguientes datos en formato JSON:
+{"nombre": "Maria",
+  "mensaje": "Hola comunidad"}
 
-
+La respuesta obtenida fue:
+{  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"}
