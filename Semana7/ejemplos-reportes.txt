@@ -1,0 +1,10 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de iluminación en el parque principal durante la noche"
+}
+Ejemplo 2:
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "Interrupción frecuente del servicio de agua en el sector La Esperanza"
+}
