@@ -1,0 +1,3 @@
+1. Utilizar contraseñas seguras y autenticación multifactor para proteger el acceso a los sistemas.
+2. No compartir credenciales ni almacenar información sensible en repositorios públicos o archivos sin protección.
+3. Mantener el sistema operativo, las dependencias y las aplicaciones actualizadas para corregir vulnerabilidades de seguridad.
