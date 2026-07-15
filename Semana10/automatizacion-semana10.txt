@@ -1,0 +1,4 @@
+Evento: cierre exitoso de una petición.
+Acción: enviar mensaje a Telegram.
+Mensaje: "La petición ha finalizado correctamente. Consulte la plataforma para conocer los resultados."
+Información que no debe enviarse: datos personales de los participantes, documentos de identidad, direcciones, teléfonos, correos electrónicos, contraseñas o información confidencial.

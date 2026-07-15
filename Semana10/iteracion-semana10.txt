@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero la creación del formulario para registrar apoyos y la configuración de las notificaciones automáticas, ya que son funciones esenciales para el funcionamiento del proyecto.
+¿Por qué son las más importantes?
+Porque permiten que las personas puedan participar fácilmente, registrar su apoyo y mantenerse informadas sobre el avance de la iniciativa.
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea está terminada cuando cumple con lo solicitado, funciona correctamente y está lista para ser utilizada.
+4. Definición simple de terminado con al menos 3 criterios.
+Una tarea se considera terminada cuando:
+* Funciona correctamente y cumple con los requisitos. 
+* Ha sido revisada y no presenta errores importantes. 
+* Está documentada y lista para que otra persona pueda utilizarla o continuar con el proyecto.
+
